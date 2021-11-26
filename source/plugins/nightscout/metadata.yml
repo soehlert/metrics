@@ -1,6 +1,7 @@
 name: "💉 Nightscout"
-category: other
-index: 3
+category: community
+authors:
+  - legoandmars
 supports:
   - user
 inputs:
